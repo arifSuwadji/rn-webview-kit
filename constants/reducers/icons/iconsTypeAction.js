@@ -1,0 +1,12 @@
+const iconsTypeAction = {
+    SHOW_TEXT: 'SHOW_TEXT',
+    HIDE_TEXT: 'HIDE_TEXT',
+    SECURE_TEXT: 'SECURE_TEXT',
+    SHOW_KONF_TEXT: 'SHOW_KONF_TEXT',
+    HIDE_KONF_TEXT: 'HIDE_KONF_TEXT',
+    SECURE_KONF_TEXT: 'SECURE_KONF_TEXT',
+    COLOR_TEXT: 'COLOR_TEXT',
+    COLOR_KONF_TEXT: 'COLOR_KONF_TEXT'
+}
+
+export default iconsTypeAction;
